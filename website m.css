@@ -1,0 +1,891 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+   margin: auto;
+  }
+
+
+  /*this is Header stard*/
+
+  .header{
+
+    font-size: 20px;
+    width: 100%;
+    
+    
+    
+
+    
+
+  }
+  .header a{
+    padding: 20px;
+    color: black;
+    
+    float: left;
+    text-decoration: none;
+  }
+  
+  .header img{
+    width: 20px;
+    height: 18px;
+    
+    box-sizing: border-box;
+   
+  }
+  .w3 a{
+    font-size: 35px;
+    color: rgb(17, 173, 56);
+
+  }
+  .Tutorial a{
+    margin-top: 9px;
+
+   
+  }
+  .Tutorial a:hover{
+    background-color: rgb(17, 173, 56);
+  }
+  .Refernces a{
+    margin-top: 9px;
+  }
+  .Refernces a:hover{
+    background-color: rgb(17, 173, 56);
+  }
+  .Exercises a{
+    margin-top: 9px;
+  }
+  .Exercises a:hover{
+    background-color: rgb(17, 173, 56);
+  }
+  .Videos a{
+    margin-top: 9px;
+
+  }
+  .Videos a:hover{
+    background-color: rgb(17, 173, 56);
+  }
+  .img a{
+    margin-top: 9px;
+  }
+  .img a img:hover{
+    background-color: rgb(17, 173, 56);
+    padding: 4px 4px;
+    border-radius: 5px;
+  }
+  .pro a{ 
+    margin-top: 12px;
+    padding: 15px 20px;
+  }
+  .pro a:hover{
+    background-color: rgb(17, 173, 56);
+    border-radius: 50px;
+    
+  }
+    
+
+  .pro span{
+    background-color: aliceblue;
+    padding: 1px 3px;
+   
+    box-sizing: border-box;
+    border-radius: 30%;
+    border: 2px solid black;
+   
+  }
+  .Get-cerfified a{
+    background-color: rgb(245, 155, 45);
+    border-radius: 70px;
+    padding: 15px 40px;
+   
+    margin-top: 12px;
+  }
+  .Get-cerfified a:hover{
+    background-color: rgb(17, 173, 56);
+  }
+  .website a{
+    margin-top: 12px;
+    padding: 15px 20px;
+  }
+  .website a:hover{
+    background-color: rgb(17, 173, 56);
+    border-radius: 50px;
+    
+  }
+  .log-in a{
+    background-color: rgb(10, 177, 79);
+    border-radius: 70px;
+    
+    padding: 15px 50px;
+    margin-top: 9px;
+  }
+  .log-in a:hover{
+    background-color: rgb(6, 122, 35);
+  }
+  
+ 
+ /*this is Header end*/
+ /*this is learm code start*/
+
+
+.learn-code{
+  clear: both;
+  width: 100%;
+  height: 500px;
+  background-color: rgb(34, 34, 34);
+ 
+}
+.learn{
+  margin-top: 60px;
+ 
+  text-align: center;
+  color: azure;  
+
+}
+.learn h1{
+  font-size: 70px;
+  padding-top: 100px;
+  
+  
+}
+.learn p{
+  font-size: 26px;
+  font-style: normal;
+  padding: 30px 10px;
+  color: rgb(212, 168, 132);
+}
+.learn input{
+  width: 435px;
+  height: 50px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  
+}
+.learn button{
+  width: 70px;
+  height: 50px;
+  background-color:  rgb(10, 177, 79);
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.learn input[type=submit]{
+  padding-left: 10px;
+
+}
+.learn a{
+  color: aliceblue;
+  font-size: 25px;
+  margin-top: 26px;
+  display: block;
+  
+}
+
+ /*this is learm code end*/
+
+  /*this is Html code start*/
+
+  .Html-code{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(223, 255, 237);
+  }
+  .html{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .html h1{
+    font-weight: 70px;
+    font-size: 90px;
+  }
+  .html p{
+    font-size: 25px;
+  }
+  .html a{
+    width:190px;
+    padding: 10px;
+    margin: auto;
+    font-size: 18px;
+
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  .HTML-Example{
+    width: 50%;
+    float: right;
+    margin-top: 100px;
+  }
+
+  .HTML-Example{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(216, 219, 219, 0.836);
+    padding-top: 30px;
+    padding-left: 20px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+   
+  }
+  .HTML-Example h3{
+    font-size: 30px;
+  }
+  .HTML-Example a{
+    display: block;
+    margin-top: 25px;
+    background-color: rgb(10, 177, 79);
+    width: 150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .HTML-Example a:hover{
+    background-color: rgb(0, 114, 47);
+    color: #ffffff;
+  }
+  .Example{
+    margin-top: 30px;
+    border-left-style: solid;
+    border-left-color: rgb(10, 177, 79);
+    background-color: rgb(248, 250, 250);
+    width: 450px;
+    height: 215px;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+
+  /*this is Html code end*/
+
+
+  /*this id css code steard*/
+
+
+
+  .css-code{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(240, 248, 131);
+  }
+  .css{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .css h1{
+    font-weight: 70px;
+    font-size: 90px;
+  }
+  .css p{
+    font-size: 25px;
+  }
+  .css a{
+    width:190px;
+    padding: 10px;
+    margin: auto;
+    font-size: 18px;
+
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  .css-Example{
+    width: 50%;
+    float: right;
+    margin-top: 100px;
+  }
+
+  .css-Example{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(216, 219, 219, 0.836);
+    padding-top: 30px;
+    padding-left: 20px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+   
+  }
+  .css-Example h3{
+    font-size: 30px;
+  }
+  .css-Example a{
+    display: block;
+    margin-top: 25px;
+    background-color: rgb(10, 177, 79);
+    width: 150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .css-Example a:hover{
+    background-color: rgb(0, 114, 47);
+    color: #ffffff;
+  }
+  .Example2{
+    margin-top: 30px;
+    border-left-style: solid;
+    border-left-color: rgb(10, 177, 79);
+    background-color: rgb(248, 250, 250);
+    width: 450px;
+    height: 215px;
+    padding-top: 40px;
+    padding-left: 20px; 
+  }
+   /*this id css code end*/
+
+
+   /*this id JavaScript code start*/
+
+
+
+   .JavaScript-code{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(34, 34, 34);
+  }
+  .JavaScript{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .JavaScript h1{
+    font-weight: 70px;
+    font-size: 90px;
+    color: white;
+  }
+  .JavaScript p{
+    font-size: 25px;
+    color: white;
+  }
+  .JavaScript a{
+    width:190px;
+    padding: 10px;
+    margin: auto;
+    font-size: 18px;
+
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  .JavaScript-Example{
+    width: 50%;
+    float: right;
+    margin-top: 100px;
+  }
+
+  .JavaScript-Example{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(216, 219, 219, 0.836);
+    padding-top: 30px;
+    padding-left: 20px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    border-radius: 7px;
+   
+  }
+  .JavaScript-Example h3{
+    font-size: 30px;
+  }
+  .JavaScript-Example a{
+    display: block;
+    margin-top: 25px;
+    background-color: rgb(10, 177, 79);
+    width: 150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .JavaScript-Example a:hover{
+    background-color: rgb(0, 114, 47);
+    color: #ffffff;
+  }
+  .Example3{
+    margin-top: 30px;
+    border-left-style: solid;
+    border-left-color: rgb(10, 177, 79);
+    background-color: rgb(248, 250, 250);
+    width: 450px;
+    height: 215px;
+    padding-top: 40px;
+    padding-left: 20px; 
+  }
+
+
+
+
+
+   /*this id JavaScript code end*/
+
+
+   /*this id python code start*/
+
+
+   .python-code{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(127, 129, 125);
+  }
+  .python{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .python h1{
+    font-weight: 70px;
+    font-size: 90px;
+    color: black;
+  }
+  .python p{
+    font-size: 25px;
+    color: black;
+  }
+  .python a{
+    width:190px;
+    padding: 10px;
+    margin: auto;
+    font-size: 18px;
+
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  .python-Example{
+    width: 50%;
+    float: right;
+    margin-top: 100px;
+  }
+
+  .python-Example{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(216, 219, 219, 0.836);
+    padding-top: 30px;
+    padding-left: 20px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    border-radius: 7px;
+   
+  }
+  .python-Example h3{
+    font-size: 30px;
+  }
+  .python-Example a{
+    display: block;
+    margin-top: 25px;
+    background-color: rgb(10, 177, 79);
+    width: 150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .python-Example a:hover{
+    background-color: rgb(0, 114, 47);
+    color: #ffffff;
+  }
+  .Example4{
+    margin-top: 30px;
+    border-left-style: solid;
+    border-left-color: rgb(10, 177, 79);
+    background-color: rgb(248, 250, 250);
+    width: 450px;
+    height: 215px;
+    padding-top: 40px;
+    padding-left: 20px; 
+  }
+
+
+   /*this id python code end*/
+
+   /*this is SQL code start*/
+
+
+   .SQL-code{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(85, 188, 248);
+  }
+  .SQL{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .SQL h1{
+    font-weight: 70px;
+    font-size: 90px;
+    color: black;
+  }
+  .SQL p{
+    font-size: 25px;
+    color: black;
+  }
+  .SQL a{
+    width:190px;
+    padding: 10px;
+    margin: auto;
+    font-size: 18px;
+
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 30px;
+  }
+  
+  .SQL-Example{
+    width: 50%;
+    float: right;
+    margin-top: 100px;
+  }
+
+  .SQL-Example{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(216, 219, 219, 0.836);
+    padding-top: 30px;
+    padding-left: 20px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    border-radius: 7px;
+   
+  }
+  .SQL-Example h3{
+    font-size: 30px;
+  }
+  .SQL-Example a{
+    display: block;
+    margin-top: 25px;
+    background-color: rgb(10, 177, 79);
+    width: 150px;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .SQL-Example a:hover{
+    background-color: rgb(0, 114, 47);
+    color: #ffffff;
+  }
+  .Example5{
+    margin-top: 30px;
+    border-left-style: solid;
+    border-left-color: rgb(10, 177, 79);
+    background-color: rgb(248, 250, 250);
+    width: 450px;
+    height: 215px;
+    padding-top: 40px;
+    padding-left: 20px; 
+  }
+
+   /*this is SQL code end*/
+
+
+   /*this is PHP code start*/
+   .zaman{
+    width: 100%;
+    height: 1200px;
+    background-color: rgb(34, 34, 34);
+   }
+
+   .PHP{
+
+    width: 540px;
+    height: 300px;
+    background-color: aqua;
+    margin-top: 10px;
+    display: block;
+   text-align: center;
+    float: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+    
+  
+
+    
+   }
+   .PHP h2{
+    font-size: 50px;
+    padding: 15px 0px;
+   }
+
+
+   .PHP p{
+    font-size: 25px;
+    padding-bottom: 40px;
+
+
+
+   }
+   .PHP a{
+    font-size: 25px;
+    background-color: rgb(32, 37, 36);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+   }
+
+
+
+   .jQuery{
+    width: 540px;
+    height: 300px;
+    float: right;
+    background-color: rgb(40, 228, 159);
+    text-align: center;
+    margin: auto;
+    margin-right: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+
+   }
+
+   .jQuery h2{
+    font-size: 50px;
+    padding: 15px 0px;
+   }
+
+
+   .jQuery p{
+    font-size: 25px;
+    padding-bottom: 40px;
+
+
+
+   }
+   .jQuery a{
+    font-size: 25px;
+    background-color: rgb(32, 37, 36);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+   }
+
+
+
+   .Java{
+
+    width: 540px;
+    height: 300px;
+    background-color: rgb(248, 107, 88);
+    margin-top: 10px;
+    display: block;
+   text-align: center;
+    float: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+    
+  
+
+    
+   }
+   .Java h2{
+    font-size: 50px;
+    padding: 15px 0px;
+   }
+
+
+   .Java p{
+    font-size: 25px;
+    padding-bottom: 40px;
+
+
+
+   }
+   .Java a{
+    font-size: 25px;
+    background-color: rgb(32, 37, 36);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+   }
+
+
+
+   .cas{
+
+    width: 540px;
+    height: 300px;
+    background-color: rgb(210, 78, 243);
+    margin-top: 10px;
+    display: block;
+   text-align: center;
+    float: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+    
+  
+
+    
+   }
+   .cas h2{
+    font-size: 50px;
+    padding: 15px 0px;
+   }
+
+
+   .cas p{
+    font-size: 25px;
+    padding-bottom: 40px;
+
+
+
+   }
+   .cas a{
+    font-size: 25px;
+    background-color: rgb(32, 37, 36);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+   }
+
+
+
+   .W3css{
+
+    width: 540px;
+    height: 300px;
+    background-color: rgb(86, 102, 245);
+    margin-top: 10px;
+    display: block;
+   text-align: center;
+    float: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+    
+  
+
+    
+   }
+   .W3css h2{
+    font-size: 50px;
+    padding: 15px 0px;
+   }
+
+
+   .W3css p{
+    font-size: 25px;
+    padding-bottom: 40px;
+
+
+
+   }
+   .W3css a{
+    font-size: 25px;
+    background-color: rgb(32, 37, 36);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+   }
+
+
+
+   .Bootstrap{
+
+    width: 540px;
+    height: 300px;
+    background-color: rgb(208, 250, 91);
+    margin-top: 10px;
+    display: block;
+   text-align: center;
+    float: left;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+    
+  
+
+    
+   }
+   .Bootstrap h2{
+    font-size: 50px;
+    padding: 15px 0px;
+   }
+
+
+   .Bootstrap p{
+    font-size: 25px;
+    padding-bottom: 40px;
+
+
+
+   }
+   .Bootstrap a{
+    font-size: 25px;
+    background-color: rgb(32, 37, 36);
+    padding: 10px 50px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    
+
+   }
+
+
+
+
+
+
+
+
+
+   /*this is PHP code end*/
+
+
+
+
+
+
+   
+
+
+
+
+
+
+ 
